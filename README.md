@@ -1,0 +1,2 @@
+# MoonJihee_lotto
+homework
